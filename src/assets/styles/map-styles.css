@@ -1,0 +1,52 @@
+@import url('../../../node_modules/ol/ol.css');
+
+
+/* zoom buttons */
+/*____________________________________________________*/
+
+.ol-zoom {
+  border: none !important;
+  top: 14px !important;
+  left: 14px !important;
+}
+
+.ol-control button {
+  color: white !important;
+  background-color: rgba(22, 26, 30, 0.8) !important;
+  border: 0 !important;
+  width: 22px !important;
+  height: 22px !important;
+}
+
+.ol-control button:hover {
+  cursor: pointer;
+}
+
+.ol-control button:first-child {
+  margin-bottom: 5px !important;
+}
+
+
+
+/* scale lines */
+/*____________________________________________________*/
+
+.ol-scale-line {
+  background-color: rgba(6, 8, 9, 0.8) !important;
+  border-top: 2px white solid !important;
+  border-bottom: none !important;
+  border-radius: 0 !important;
+  left: 14px !important;
+  bottom: 10px !important;
+}
+
+.ol-scale-line-inner {
+  border: none !important;
+  color: white !important;
+}
+
+.ol-viewport div:nth-of-type(3) .ol-unselectable:nth-of-type(4) {
+  bottom: 34px !important;
+}
+
+

@@ -1,0 +1,17 @@
+[
+  {"city":"Mexico City","country":"Mexico","location":[-99.14,19.41],"label":"mexico_city"},
+  {"city":"Medellín","country":"Colombia","location":[-75.57,6.24],"label":"medellin"},
+  {"city":"Salvador","country":"Brazil","location":[-38.48,-12.98],"label":"salvador"},
+  {"city":"Buenos Aires","country":"Argentina","location":[-58.42,-34.61],"label":"buenos_aires"},
+  {"city":"Lagos","country":"Nigeria","location":[3.39,6.45],"label":"lagos"},
+  {"city":"Nairobi","country":"Kenya","location":[36.82,-1.28],"label":"nairobi"},
+  {"city":"Mumbai","country":"India","location":[72.86,19.03],"label":"mumbai"},
+  {"city":"Jakarta","country":"Indonesia","location":[106.82,-6.16],"label":"jakarta"},
+  {"city":"Bissau","country":"Guinea-Bissau","location":[-15.59,11.87],"label":"bissau"},
+  {"city":"Rio de Janeiro","country":"Brazil","location":[-43.17,-22.91],"label":"rio_de_janeiro"},
+  {"city":"Kisumu","country":"Kenya","location":[34.76,-0.1],"label":"kisumu"},
+  {"city":"Guatemala City","country":"Guatemala","location":[-90.47,14.60],"label":"guatemala_city"},
+  {"city":"Pereira","country":"Colombia","location":[-75.70,4.81],"label":"pereira"},
+  {"city":"Tegucigalpa","country":"Honduras","location":[-87.21,14.08],"label":"tegucigalpa"},
+  {"city":"Others","country":"World","location":[0,-20],"label":"world"}
+]

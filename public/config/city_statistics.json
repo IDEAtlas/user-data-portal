@@ -1,0 +1,88 @@
+[
+  {
+    "city": "Buenos Aires (Metro)",
+    "label": "buenos_aires",
+    "total": 1679.94,
+    "DUA_area_sqkm": 147.49,
+    "DUA_area_percent": 8.8,
+    "DUA_pop_percent_ghs": 5.2,
+    "DUA_pop_percent_gov": 12.7,
+    "gov_source": "Registro Nacional de Barrios Populares (RENABAP), 2022"
+  },
+  {
+    "city": "Jakarta",
+    "label": "jakarta",
+    "total": 452.21,
+    "DUA_area_sqkm": 44.62,
+    "DUA_area_percent": 9.9,
+    "DUA_pop_percent_ghs": 10.5,
+    "DUA_pop_percent_gov": 42.7,
+    "gov_source": "Badan Pusat Statistik (BPS), 2019"
+  },
+  {
+    "city": "Lagos (Metro)",
+    "label": "lagos",
+    "total": 1148.36,
+    "DUA_area_sqkm": 111.26,
+    "DUA_area_percent": 9.7,
+    "DUA_pop_percent_ghs": 19.8,
+    "DUA_pop_percent_gov": 0,
+    "gov_source": "Governmental data not available"
+  },
+  {
+    "city": "Medellin",
+    "label": "medellin",
+    "total": 136.84,
+    "DUA_area_sqkm": 16.25,
+    "DUA_area_percent": 11.9,
+    "DUA_pop_percent_ghs": 11.9,
+    "DUA_pop_percent_gov": 6.6,
+    "gov_source": "Departamento Administrativo Nacional de Estadística (DANE), 2018"
+  },
+  {
+    "city": "Mexico City",
+    "label": "mexico_city",
+    "total": 641.36,
+    "DUA_area_sqkm": 110.08,
+    "DUA_area_percent": 17.2,
+    "DUA_pop_percent_ghs": 3.6,
+    "DUA_pop_percent_gov": 3.4,
+    "gov_source": "Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL), 2022"
+  },
+  {
+    "city": "Mumbai (Metro)",
+    "label": "mumbai",
+    "total": 609.92,
+    "DUA_area_sqkm": 46.75,
+    "DUA_area_percent": 7.7,
+    "DUA_pop_percent_ghs": 10.1,
+    "DUA_pop_percent_gov": 42.0,
+    "gov_source": "Ministry of Urban Development and Poverty Alleviation, 2015"
+  },
+  {
+    "city": "Nairobi",
+    "label": "nairobi",
+    "total": 254.55,
+    "DUA_area_sqkm": 40.15,
+    "DUA_area_percent": 15.8,
+    "DUA_pop_percent_ghs": 41.7,
+    "DUA_pop_percent_gov": 64.0,
+    "gov_source": "African Population and Health Research Center (APHRC), 2018"
+  },
+  {
+    "city": "Salvador",
+    "label": "salvador",
+    "total": 166.83,
+    "DUA_area_sqkm": 44.78,
+    "DUA_area_percent": 26.8,
+    "DUA_pop_percent_ghs": 47.1,
+    "DUA_pop_percent_gov": 41.0,
+    "gov_source": "Instituto Brasileiro de Geografia e Estatística (IBGE), 2022"
+  },
+  {
+    "notes": [
+      "DUA: Deprived Urban Areas",
+      "GHS-POP Epoch 2025: https://data.jrc.ec.europa.eu/dataset/2ff68a52-5b5b-4a22-8f40-c41da8332cfe"
+    ]
+  }
+]
